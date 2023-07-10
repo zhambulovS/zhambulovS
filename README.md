@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhambulovS
-- 👀 I’m interested in WebSites and competitive programming
+- 👀 I’m interested in web development and competitive programming
 - 🌱 I’m currently learning Js, Python
 - 📫 How to reach me zambulovsultanbek@gmail.com
 
